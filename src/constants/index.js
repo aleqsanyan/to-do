@@ -1,0 +1,11 @@
+
+export const  ADD_ITEM = 'ADD_ITEM';
+export const  DELETE_IN_TODO = 'DELETE_IN_TODO';
+export const  DELETE_IN_COMPLETED = 'DELETE_IN_COMPLETED';
+export const  HIDE_SHOW_INPUT = 'HIDE_SHOW_INPUT';
+export const  ADD_TO_COMPLETED = 'ADD_TO_COMPLETED';
+export const  HIDE_SHOW_COMPLETED = 'HIDE_SHOW_COMPLETED';
+export const  ADD_TODO = 'ADD_TODO';
+export const  SET_VALUE_TODO = 'SET_VALUE_TODO';
+export const  SET_VALUE_COMPLETED = 'SET_VALUE_COMPLETED';
+
